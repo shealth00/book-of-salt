@@ -34,6 +34,7 @@ The book operates on three irreducible premises:
 book-of-salt/
 │
 ├── README.md                          ← You are here
+├── The_Salt_Effect_Complete_Book.md    ← Complete consolidated manuscript
 │
 ├── chapters/
 │   ├── The_Salt_Effect_Section_One_Chapters.docx
@@ -64,6 +65,8 @@ book-of-salt/
 ---
 
 ## Book Architecture: Full Chapter Index
+
+The complete consolidated manuscript is available in [`The_Salt_Effect_Complete_Book.md`](The_Salt_Effect_Complete_Book.md).
 
 ### Introduction: The Saltless Void
 The physics of a vacuum. When conscious, principled leaders withdraw, chaos rushes in. Debunking the sponge myth. Introducing Active Resonance.
@@ -127,7 +130,7 @@ The physics of a vacuum. When conscious, principled leaders withdraw, chaos rush
 
 ---
 
-### Section Five: The Blueprint for Modern Living *(forthcoming)*
+### Section Five: The Blueprint for Modern Living
 
 | Chapter | Title |
 |---------|-------|
@@ -213,7 +216,7 @@ This repository includes **17 original editorial figures** created for the book 
 | Section Two: The Salting of the Soul | ✅ Complete | 5–8 |
 | Section Three: The Institutional Imperative | ✅ Complete | 9–16 |
 | Section Four: The Metaphysical Revolution | ✅ Complete | 17–25 |
-| Section Five: The Blueprint for Modern Living | 🔄 In Progress | 26–30 |
+| Section Five: The Blueprint for Modern Living | ✅ Drafted in consolidated manuscript | 26–30 |
 
 ---
 
