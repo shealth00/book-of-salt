@@ -1,4 +1,3 @@
-import { usePlayer } from '../../context/PlayerContext';
 import NowPlaying from './NowPlaying';
 import PlayerControls from './PlayerControls';
 import VolumeControl from './VolumeControl';

@@ -1,9 +1,8 @@
 import { Page } from '../../types';
-import { playlists, albums, artists, trendingTracks, tracks } from '../../data/mockData';
+import { playlists, albums, artists, trendingTracks } from '../../data/mockData';
 import MusicCard from '../UI/MusicCard';
 import SectionHeader from '../UI/SectionHeader';
 import TrackRow from '../UI/TrackRow';
-import { usePlayer } from '../../context/PlayerContext';
 
 interface Props {
   navigate: (page: Page, id?: string) => void;
@@ -17,8 +16,6 @@ function getGreeting() {
 }
 
 export default function HomePage({ navigate }: Props) {
-  const { playTrack } = usePlayer();
-
   return (
     <div className="px-8 py-6">
       {/* Hero greeting */}

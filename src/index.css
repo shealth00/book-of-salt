@@ -41,7 +41,7 @@
   }
 
   .track-row {
-    @apply flex items-center gap-4 px-4 py-2 rounded-md hover:bg-surface-highlight group cursor-pointer transition-colors;
+    @apply flex items-center gap-4 px-4 py-2 rounded-md hover:bg-surface-highlight cursor-pointer transition-colors;
   }
 
   .card {

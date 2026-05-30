@@ -25,7 +25,7 @@ export default function TrackRow({ track, index, queue, showAlbum = true }: Prop
 
   return (
     <div
-      className={`track-row ${ isActive ? 'text-brand-green' : '' }`}
+      className={`track-row group ${ isActive ? 'text-brand-green' : '' }`}
       onDoubleClick={handleClick}
     >
       <div className="w-6 text-center flex-shrink-0">
