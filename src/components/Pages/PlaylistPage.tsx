@@ -30,9 +30,9 @@ export default function PlaylistPage({ id }: Props) {
 
   function handleShuffle() {
     toggleShuffle();
-    if (!isCurrentPlaylist && playlist.tracks.length > 0) {
-      const randomIndex = Math.floor(Math.random() * playlist.tracks.length);
-      playTrack(playlist.tracks[randomIndex], playlist.tracks);
+    if (!isCurrentPlaylist && playlist!.tracks.length > 0) {
+      const randomIndex = Math.floor(Math.random() * playlist!.tracks.length);
+      playTrack(playlist!.tracks[randomIndex], playlist!.tracks);
     }
   }
 
