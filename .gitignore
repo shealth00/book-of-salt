@@ -1,0 +1,32 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editor & IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Temporary Files
+*.tmp
+*.temp
+.cache/
+
+# OS-specific
+._*
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# System Files
+.git/
